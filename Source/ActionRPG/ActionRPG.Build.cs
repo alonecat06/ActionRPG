@@ -28,8 +28,8 @@ public class ActionRPG : ModuleRules
 
 		PrivateDependencyModuleNames.AddRange(new string[]
         {
-            "UnLua",
-            "Lua",
+            // "UnLua",
+            // "Lua",
 			"ChunkDownloader",
         });
 		

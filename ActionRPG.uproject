@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{1EACC93F-4CA1-D438-5FFC-5E9B5EE2E634}",
+	"EngineAssociation": "{C65F37E3-43FE-8A23-4EAB-048F8DF45D51}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -13,12 +13,7 @@
 			"Name": "ActionRPGLoadingScreen",
 			"Type": "ClientOnly",
 			"LoadingPhase": "PreLoadingScreen"
-		},
-		{
-	      "Name": "PlatformUtils",
-	      "Type": "Runtime",
-	      "LoadingPhase": "PostConfigInit"
-	    }
+		}
 	],
 	"Plugins": [
 		{
